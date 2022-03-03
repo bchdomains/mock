@@ -1,7 +1,7 @@
 {
-  "name": "@ensdomains/mock",
+  "name": "@bchdomains/mock",
   "version": "2.1.42",
-  "description": "ENS mock scripts",
+  "description": "LNS mock scripts",
   "main": "dist/index.js",
   "files": [
     "dist"
@@ -57,10 +57,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ensdomains/mock.git"
+    "url": "git+https://github.com/bchdomains/mock.git"
   },
   "bugs": {
-    "url": "https://github.com/ensdomains/mock/issues"
+    "url": "https://github.com/bchdomains/mock/issues"
   },
-  "homepage": "https://github.com/ensdomains/mock#readme"
+  "homepage": "https://github.com/bchdomains/mock#readme"
 }
