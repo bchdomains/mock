@@ -1,1 +1,1 @@
-# Script for mocking ENS contracts locally
+# Script for mocking LNS contracts locally
